@@ -35,7 +35,7 @@ setup(
     name='django-hstore',
     version=get_version(),
     description="Bring schemaless PostgreSQL (HStore) in Django",
-    long_description=open('README.rst').read(),
+    long_description="",
     author='Jordan McCoy',
     maintainer='Djangonauts Organization',
     maintainer_email='django-hstore@googlegroups.com',
